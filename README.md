@@ -1,8 +1,8 @@
 # trabalho-web
-
+```
 trabalho-web
-|
 ├── index.html
 ├── reserva.html
-├── style.css 
+├── style.css
 └── script.js
+```
