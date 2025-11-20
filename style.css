@@ -128,7 +128,7 @@ section {
     border-radius: 30px;
   }
 
-.menu-items {
+.menu-aperitivos, .menu-massas, .menu-vinhos, .menu-sobremesas {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -253,4 +253,82 @@ footer {
   margin-top: 15px;
   text-align: center;
   font-size: 16px;
+}
+
+@media (max-width: 768px) {
+  
+  .container {
+    flex-direction: column; 
+    gap: 10px;
+    padding: 10px 5%; 
+  }
+
+  .logo {
+    font-size: 1.5em; 
+  }
+
+  .navbar ul {
+    flex-direction: row;
+    flex-wrap: wrap;     
+    justify-content: center;
+    gap: 15px;           
+    width: 100%;
+  }
+
+  .navbar a {
+    font-size: 0.95em; 
+    padding: 5px;
+  }
+
+  .hero {
+    padding: 80px 20px; 
+  }
+
+  .hero-content h2 {
+    font-size: 2em; 
+  }
+
+  .about-container {
+    flex-direction: column; 
+    text-align: center;
+  }
+
+  .about-image {
+    flex: none;      
+    width: 100%;
+    max-width: 280px; 
+    margin: 0 auto 20px auto; 
+  }
+
+  .about-text h2 {
+    display: inline-block;
+  }
+
+  .card {
+    width: 100%;
+    max-width: 340px; 
+  }
+
+  .menu-aperitivos, .menu-massas, .menu-vinhos, .menu-sobremesas {
+    padding: 0 10px;
+  }
+
+  .reserva {
+    width: 90%; 
+    margin: 30px auto;
+    padding: 15px;
+  }
+
+  .slider-wrapper {
+    width: 100%;
+    padding: 0 10px; 
+  }
+
+  .slider-nav {
+    bottom: 0.5rem; 
+  }
+
+  .local iframe {
+    height: 250px; 
+  }
 }

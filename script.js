@@ -1,11 +1,13 @@
 document.addEventListener('DOMContentLoaded', () => {
   const btnReserva = document.getElementById('btn-reserva');
 
-  btnReserva.addEventListener('click', (e) => {
-    e.preventDefault();
-    // Redireciona para outra página
-    window.location.href = 'reserva.html';
-  });
+  if (btnReserva) { 
+      btnReserva.addEventListener('click', (e) => {
+        e.preventDefault();
+        // Redireciona para outra página
+        window.location.href = 'reserva.html';
+      });
+    }
 });
 
 const form = document.getElementById('form-reserva');
@@ -17,7 +19,7 @@ if (form) {
     const data = document.getElementById('data').value;
     const pessoas = document.getElementById('pessoas').value;
 
-    const msg = document.getElementById('mensagem');
+    const msg = document.getElementById('C');
     msg.textContent = `🍝 Reserva confirmada para ${nome} no dia ${data} para ${pessoas} pessoa(s)!`;
     msg.style.color = "#006400";
     msg.style.fontWeight = "bold";
