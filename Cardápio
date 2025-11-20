@@ -1,0 +1,115 @@
+ <!-- Menu -->
+  <section id="menu" class="menu">
+    <h2>Nosso Menu</h2>
+    <h3>Aperitivos</h3>
+    <div class="menu-items">
+      <div class="card">
+        <img src="https://s2-receitas.glbimg.com/ijyyeWbp3G-IazDAt2YFdeoEx1k=/0x0:1920x1080/984x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2014/01/10/15_06_07_218_RECEITA_03_Bruschetta_de_queijo_de_cabra_parma_e_r_cula.jpg" alt="Bruschetta">
+        <h3>Bruschetta</h3>
+        <p>Pão tostado com presunto de parma, queijo e rúcula.</p>
+        <span>R$ 48,00</span>
+      </div>
+      <div class="card">
+        <img src="https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/wnrygutl/62f2b456-704d-4c76-9652-b8650f1fe459.jpg" alt="Calamari">
+        <h3>Calamari Fritti</h3>
+        <p>Lula frita com pimentas cereja.</p>
+        <span>R$ 50,00</span>
+      </div>
+      <div class="card">
+        <img src="https://s2-casaejardim.glbimg.com/rN-LAyOWE-sk3BVIZcfIeUbKxWg=/0x0:1400x933/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_a0b7e59562ef42049f4e191fe476fe7d/internal_photos/bs/2023/d/H/X7kYydQBiBDPKPodH96A/receita-arancini-bolinho-risoto-parmesao-ervila-due-chochi-trattoria-sp.jpg" alt="Arancini">
+        <h3>Arancini</h3>
+        <p>Bolinhos de arroz sicilianos.</p>
+        <span>R$ 40,00</span>
+      </div>
+      <div class="card">
+        <img src="https://feed.continente.pt/media/xh0ljfaa/salada-caprese.jpg?anchor=center&mode=crop&width=826&height=620&rnd=133547938068300000&format=webp" alt="Salada">
+        <h3>Salada caprese</h3>
+        <p>Rodelas de muçarela de búfala, tomate e tomate cereja, temperados com manjericão.</p>
+        <span>R$ 40,00</span>
+      </div>
+    </section>
+
+    <section>
+      <h3>Massas</h3>
+      <div class="card">
+        <img src="https://receitasmais.com.br/wp-content/uploads/2016/01/Fettuccine-ao-molho-de-queijo-emmental-e-lim%C3%A3o-1024x681.jpg" alt="Fettuccine">
+        <h3>Fettuccine</h3>
+        <p>Fettuccine ao molho de queijo emmental e limão</p>
+        <span>R$ 56,00</span>
+      </div>
+      <div class="card">
+        <img src="https://www.comidaereceitas.com.br/wp-content/uploads/2011/08/Espaguete-ao-molho-pesto-vegan-freepik.jpg" alt="Pesto">
+        <h3>Macarrão ao molho pesto</h3>
+        <p>Macarrão com molho pesto de manjericão.</p>
+        <span>R$ 62,00</span>
+      </div>
+      <div class="card">
+        <img src="https://img.taste.com.au/EStOp8xT/w643-h428-cfill-q90/taste/2017/04/italian-sausage-ravioli-with-capsicum-sauce-125824-1.jpg" alt="Ravioli">
+        <h3>Ravioli</h3>
+        <p>Ravioli de linguiça italiana com molho de pimentão.</p>
+        <span>R$ 52,00</span>
+      </div>
+      <div class="card">
+        <img src="https://feed.continente.pt/media/zr3hy3xn/tagliatelle-cogumelos.jpg" alt="Tagliatelle">
+        <h3>Tagliatelle</h3>
+        <p>Macarrão tagliatelle com cogumelos</p>
+        <span>R$ 62,00</span>
+      </div>
+      </section>
+
+      <section>
+      <h3>Sobremesas</h3>
+      <div class="card">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs3IUVv9rC7mF7uSuFJTiGv0aDIJvtBnvZAYTIxaJyTYbZ1YkW-3BastA&s=10" alt="Tiramisu">
+        <h3>Tiramisu</h3>
+        <p>Camadas de biscoito, café e creme de mascarpone.</p>
+        <span>R$ 42,00</span>
+      </div>
+      <div class="card">
+        <img src="https://cuk-it.com/wp-content/uploads/2020/09/cannoli-siciliano.webp" alt="Cannoli">
+        <h3>Cannoli</h3>
+        <p>Cannoli rechado com ricota e gotas de chocolate</p>
+        <span>R$ 48,00</span>
+      </div>
+      <div class="card">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiieFs0Fm-hOEphiiKOtvpGI2bwmBw3j5qQ7hmepGrMtdGcDKjcGPQEgxxQWs2-Ve65NkHQ3kIxsJWF8gy6lgOMg1hdQQlTBAuEsBEqQHng-V-GvFdbY5QgMvgfFXSkwH0PMAgYrKyM0c4k/s1600/8448076520-330f0e7440-b-870x480.jpg" alt="Bonét">
+        <h3>Bonét</h3>
+        <p>pudim com chocolate, café a amêndoas</p>
+        <span>R$ 45,00</span>
+      </div>
+      <div class="card">
+        <img src="https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480/img/recipe/ras/Assets/02e764f4-533f-4d7e-9ed4-820b6eaa249d/Derivates/6e867783-81f5-4a51-a318-520eb8eda79c.jpg" alt="Canestrelli">
+        <h3>Canestrelli</h3>
+        <p>Biscoitos de gemas de ovo</p>
+        <span>R$ 40,00</span>
+      </div>
+    </section>
+
+    <section>
+      <h3>Vinhos</h3>
+      <div class="card">
+        <img src="https://www.mistral.com.br/_next/image?url=https%3A%2F%2Fcdn.mistral.com.br%2Fproducts%2F39201%2Fimg_h_39201.png%3Fv%3D20251114_152357&w=750&q=75" alt="vinho1">
+        <h3>Braccale</h3>
+        <p>Vinho tinto</p>
+        <span>R$ 260,00 (a garrafa)</span>
+      </div>
+    <div class="card">
+        <img src="https://www.mistral.com.br/_next/image?url=https%3A%2F%2Fcdn.mistral.com.br%2Fproducts%2F39598%2Fimg_h_39598.png%3Fv%3D20251110_153501&w=750&q=75" alt="vinho2">
+        <h3>Edda bianco</h3>
+        <p>Vinho branco</p>
+        <span>R$ 294,00 (a garrafa)</span>
+      </div>
+      <div class="card">
+        <img src="https://cdn.mistral.com.br/products/38297/360/38297_1.png?v=20251110_132745" alt="vinho3">
+        <h3>Magari</h3>
+        <p>Vinho tinto</p>
+        <span>R$ 1500,00 (a garrafa)</span>
+      </div>
+      <div class="card">
+        <img src="https://cdn.mistral.com.br/products/35229/360/35229_1.png?v=20251110_143347" alt="vinho4">
+        <h3>Gaja rossj-bass</h3>
+        <p>Vinho branco</p>
+        <span>R$ 1000,00 (a garrafa)</span>
+      </div>
+    </div>
+  </section>
