@@ -79,6 +79,10 @@ section {
   text-align: center;
 }
 
+.about {
+    border-radius: 30px;
+  }
+
 .menu-items {
   display: flex;
   justify-content: center;
