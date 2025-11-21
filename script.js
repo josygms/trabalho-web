@@ -19,7 +19,7 @@ if (form) {
     const data = document.getElementById('data').value;
     const pessoas = document.getElementById('pessoas').value;
 
-    const msg = document.getElementById('C');
+    const msg = document.getElementById('mensagem');
     msg.textContent = `🍝 Reserva confirmada para ${nome} no dia ${data} para ${pessoas} pessoa(s)!`;
     msg.style.color = "#006400";
     msg.style.fontWeight = "bold";
